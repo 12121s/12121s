@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=1,2,1,3,30&text=%20Welcome%20Mr.illi's%20World%20&desc=Hello%20capsule%20render&fontColor=F8ECE3&height=300&fontSize=50)
 
-![12121s's GitHub stats](https://github-readme-stats.vercel.app/api?username=12121s&show_icons=true&theme=radical)
+![12121s's GitHub stats](https://github-readme-stats.vercel.app/api?username=12121s&show_icons=true&theme=radical&count_private=true&bg_color=245,fff1eb,ace0f9)

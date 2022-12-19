@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 
 
 <!--
 **12121s/12121s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+I'm working on Android Developer
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=1,2,1,3,30&text=%20Welcome%20Mr.illi's%20World%20&desc=Hello%20capsule%20render&fontColor=F8ECE3&height=300&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=1,2,1,3,30&text=%20Welcome%20illi's%20world%20&fontColor=F8ECE3&height=250&fontSize=50)
 
-![12121s's GitHub stats](https://github-readme-stats.vercel.app/api?username=12121s&show_icons=true&theme=radical&count_private=true&bg_color=245,fff1eb,ace0f9)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F12121s%2Fhit-counter&count_bg=%23ABB8F5&title_bg=%23454545&icon=googlepodcasts.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![12121s's GitHub stats](https://github-readme-stats.vercel.app/api?username=12121s&show_icons=true&count_private=true&theme=default&bg_color=15,667eea,fff1eb&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12121s&layout=compact&theme=default&bg_color=15,fff1eb,667eea&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)

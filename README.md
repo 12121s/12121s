@@ -1,4 +1,3 @@
-# Hi there 👋 I'm 12121s (illis) 
 <!--
 **12121s/12121s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +14,13 @@ I'm working on Android Developer
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&animation=fadeIn&color=gradient&customColorList=1,2,1,3,30&text=%20Welcome%20illi's%20world%20&fontColor=F8ECE3&height=150&fontSize=30)
-
-## 🙋‍♀️ I'm..
-- Android Developer
+## 🙋‍♀️ About Me
+I'm 12121s,
+an Android Developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F12121s%2F&count_bg=%23ABB8F5&title_bg=%23454545&icon=googlepodcasts.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## 💻 Dev Stats
-[![12121s's GitHub stats](https://github-readme-stats.vercel.app/api?username=12121s&show_icons=true&count_private=true&theme=default&bg_color=15,334d50,cbcaa5&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12121s&layout=compact&theme=default&bg_color=15,cbcaa5,334d50&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![12121s's GitHub stats](https://github-readme-stats.vercel.app/api?username=12121s&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12121s&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)

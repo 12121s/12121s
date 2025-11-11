@@ -1,26 +1,60 @@
-<!--
-**12121s/12121s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/12121s" width="140" style="border-radius: 50%; margin-bottom: 10px;" />
+  <h2>Hi, I'm <b>Millie</b> 👋</h2>
+  <p>Android Developer | Kotlin & Compose | User Experience First</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-I'm working on Android Developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- 6+ years of Android development experience  
+- Currently focused on building **smooth, intuitive mobile experiences**  
+- I love designing UI architecture patterns & solving performance issues  
+- Interested in **Human-centered product design & learning systems**
 
-## 🙋‍♀️ About Me
-I'm 12121s,
-an Android Developer
+---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F12121s%2F&count_bg=%23ABB8F5&title_bg=%23454545&icon=googlepodcasts.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 🛠 Tech Stack  
+| Domain | Tools |
+|-------|-------|
+| **Language** | Kotlin, Java |
+| **Android** | Jetpack Compose, ViewModel, Hilt, Paging, Room, Coroutines, Flow |
+| **UI/UX** | Material Design, Animation, State Management, Custom Components |
+| **Architecture** | MVVM, Clean Architecture, Multi-module |
+| **Build & Tools** | Gradle (KTS), Firebase, Retrofit, Moshi, Coil |
+| **Collaboration** | GitHub, Notion, Slack, Figma |
 
+---
 
-## 💻 Dev Stats
-![12121s's GitHub stats](https://github-readme-stats-five-mauve-69.vercel.app/api?username=12121s&show_icons=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-five-mauve-69.vercel.app/api/top-langs/?username=12121s&layout=compact&count_private=true)
+### 💻 Dev Stats  
+<div align="center">
+
+![12121s's GitHub stats](https://github-readme-stats-five-mauve-69.vercel.app/api?username=12121s&show_icons=true&count_private=true&include_all_commits=true&theme=default&rank_icon=github&hide=prs)
+
+![Top Langs](https://github-readme-stats-five-mauve-69.vercel.app/api/top-langs/?username=12121s&layout=compact&count_private=true&theme=default)
+
+</div>
+
+---
+
+### 📌 Pinned Projects
+| Project | Description | Stack |
+|--------|-------------|------|
+| [kotlin-qr-generator-scanner-app](https://github.com/12121s/kotlin-qr-generator-scanner-app) | QR 생성 & 스캔 가능한 Android 앱 | Kotlin, CameraX, ZXing |
+| [kotlin-book-finder-app](https://github.com/12121s/kotlin-book-finder-app) | Google Books API 기반 무한스크롤 검색 앱 | Kotlin, Retrofit, ViewModel, Paging |
+| [Algorithm](https://github.com/12121s/Algorithm) | 알고리즘 문제 풀이 저장소 | Java |
+| [MyComposeCamp](https://github.com/12121s/MyComposeCamp) | Jetpack Compose 학습 기록 | Kotlin, Compose |
+
+---
+
+### 🎯 What I’m Learning Now
+- Advanced Compose UI Performance  
+- Scalable Design Systems  
+- Human-centered interaction design  
+
+---
+
+### 📫 Contact
+Feel free to reach out :)
+

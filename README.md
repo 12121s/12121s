@@ -30,11 +30,11 @@
 ### 💻 Dev Stats  
 <div align="center">
 
-![12121s's GitHub stats](https://github-readme-stats-five-mauve-69.vercel.app/api?username=12121s&show_icons=true&count_private=true&include_all_commits=true&theme=default&rank_icon=github&hide=prs)
-
-![Top Langs](https://github-readme-stats-five-mauve-69.vercel.app/api/top-langs/?username=12121s&layout=compact&count_private=true&theme=default)
+  <img height="150" src="https://github-readme-stats-five-mauve-69.vercel.app/api?username=12121s&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&rank_icon=github" />
+  <img height="150" src="https://github-readme-stats-five-mauve-69.vercel.app/api/top-langs/?username=12121s&layout=compact&count_private=true&hide_title=true" />
 
 </div>
+
 
 ---
 

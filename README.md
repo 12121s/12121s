@@ -22,4 +22,5 @@ an Android Developer
 
 
 ## 💻 Dev Stats
-[![12121s's GitHub stats](https://github-readme-stats.vercel.app/api?username=12121s&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12121s&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![12121s's GitHub stats](https://github-readme-stats-five-mauve-69.vercel.app/api?username=12121s&show_icons=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-five-mauve-69.vercel.app/api/top-langs/?username=12121s&layout=compact&count_private=true)

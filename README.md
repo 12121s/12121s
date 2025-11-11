@@ -1,6 +1,5 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/12121s" width="140" style="border-radius: 50%; margin-bottom: 10px;" />
   <h2>Hi, I'm <b>Millie</b> 👋</h2>
   <p>Android Developer | Kotlin & Compose | User Experience First</p>
 </div>
